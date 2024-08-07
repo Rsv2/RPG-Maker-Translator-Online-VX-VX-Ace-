@@ -10,5 +10,7 @@ https://pair.casualmods.net/RPGMakerTransOnline
 (russian language only)
 
 The main code is written in C# and works on my VDS.
+
 Here is presented only the desktop client interacting with it via API.
+
 Fast speed of work and userfriendly interface for translators.
