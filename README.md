@@ -6,6 +6,8 @@ https://pair.casualmods.net/RPGMakerTransOnline
 
 Начало работы
 
+https://youtu.be/zZ8ixS1bPvg
+
 Запустить приложение и выбрать исполняемый файл Game.exe переводимой игры.
 
 -Для работы программы распаковка архива не требуется. В этом случае файл Game.rgss2a/3a распаковывается и удаляется в папку Archive.
