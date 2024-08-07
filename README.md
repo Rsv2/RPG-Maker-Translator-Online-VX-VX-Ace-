@@ -1,5 +1,9 @@
 # RPG Maker Translator Online VX/VX Ace
-Программа для перевода игр на движках RPG Maker VX/VX Ace
+Program for translating games on RPG Maker VX/VX Ace engines
 
-Оригинал описания на моём сайте:
+Original description at my website:
+
 https://pair.casualmods.net/RPGMakerTransOnline
+
+The main code is written in C# and works on my VDS.
+Here is presented only the desktop client interacting with it via API.
