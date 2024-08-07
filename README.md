@@ -1,7 +1,7 @@
 # RPG Maker Translator Online VX/VX Ace
 Program for translating games on RPG Maker VX/VX Ace engines
 
-![Иллюстрация к проекту](https://pair.casualmods.net/images/Onlinetrans/Map.jpg)
+![Иллюстрация к проекту](https://youtu.be/PkSxyJofxdY)
 
 
 Original description at my website:
